@@ -71,7 +71,6 @@ knitr::opts_chunk$set(
 
 }
 
-
   #box {
     width: 150px;
     height: 150px;
@@ -88,3 +87,7 @@ knitr::opts_chunk$set(
 ## SaSS @for 
 
 ![](pictures/sass_@for.jpg)
+
+## SaSS @each
+
+![](pictures/sass_@each.jpg)

@@ -55,7 +55,6 @@
 
 }
 
-
   #box {
     width: 150px;
     height: 150px;
@@ -70,3 +69,7 @@
 ## SaSS @for
 
 ![](pictures/sass_@for.jpg)
+
+## SaSS @each
+
+![](pictures/sass_@each.jpg)
