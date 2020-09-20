@@ -84,3 +84,7 @@ knitr::opts_chunk$set(
 
 ```
 
+
+## SaSS @for 
+
+![](pictures/sass_@for.jpg)
