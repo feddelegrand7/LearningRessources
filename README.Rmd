@@ -1,27 +1,43 @@
+---
+output: github_document
+---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
 # LearningRessources
 
-# SaSS
+# SaSS 
 
-\#\#SaSS Nesting
+##SaSS Nesting
+
 
 ![](pictures/sass_nesting.jpg)
 
+
 <br>
 
+
 ![](pictures/sass_nesting2.jpg)
+
 
 ## SaSS mixins
 
 `@mixin` and `@include`
 
+
 ![](pictures/sass_mixins.jpg)
+
 
 ## @if , @if else and @else
 
-``` css
+
+```{css, eval = FALSE}
 
 <style type='text/scss'>
 
@@ -65,4 +81,6 @@
 </style>
 
 <div id="box"></div>
+
 ```
+
